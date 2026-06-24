@@ -1,0 +1,57 @@
+/* ===== Custom CSS for Garamond + layout tweaks ===== */
+
+/* Import EB Garamond from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+/* ===== Apply EB Garamond to the entire site ===== */
+body, p, li, a, h1, h2, h3, h4, h5, h6, .home-info-title, .home-info-content, .btn, .menu-button, footer {
+    font-family: 'EB Garamond', serif !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600 !important;
+    line-height: 1.2 !important;
+    margin-top: 1.2em !important;
+    margin-bottom: 0.6em !important;
+}
+
+/* Homepage title */
+.home-info-title {
+    font-weight: 700 !important;
+    font-size: 3rem !important;
+}
+
+/* Homepage subtitle / description */
+.home-info-content {
+    font-weight: 400 !important;
+    font-size: 1.2rem !important;
+    color: #333333 !important;
+}
+
+/* Links */
+a {
+    color: #0d6efd !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: underline !important;
+}
+
+/* Buttons and top-right menu */
+.btn, .menu-button {
+    font-weight: 500 !important;
+}
+
+/* Sections spacing */
+section {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+/* Footer */
+footer {
+    font-size: 0.9rem !important;
+    color: #555555 !important;
+}

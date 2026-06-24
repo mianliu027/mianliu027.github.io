@@ -1,0 +1,260 @@
+/* ===== Custom CSS for Garamond + layout tweaks ===== */
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+/* ===== Chinese character font override via unicode-range ===== */
+@font-face {
+    font-family: 'EB Garamond';
+    src: local('STFangsong'), local('FangSong'), local('SimSun');
+    unicode-range: U+4E00-9FFF,
+                   U+3400-4DBF,
+                   U+F900-FAFF;
+}
+
+/* ===== Font & color variables ===== */
+:root {
+    --font-family: 'EB Garamond', Georgia, serif;
+    --secondary: #111111;            /* override PaperMod's gray for body text */
+    --title-color: #1e3a6e;
+    --text-color: #111111;
+    --link-hover-color: #2a52a0;
+    --footer-color: #555555;
+}
+
+/* ===== Apply font globally ===== */
+body, p, li, a, h1, h2, h3, h4, h5, h6,
+.home-info-title, .home-info-content,
+.btn, .menu-button, footer {
+    font-family: var(--font-family) !important;
+}
+
+body {
+    font-size: 1.1rem;
+    color: var(--text-color);
+}
+
+/* ===== Headings — dark navy-blue ===== */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600 !important;
+    line-height: 1.2 !important;
+    margin-top: 1.2em !important;
+    margin-bottom: 0.6em !important;
+    color: var(--title-color) !important;
+}
+
+/* ===== Title links (post titles, nav) — inherit heading color ===== */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.post-title a,
+.entry-hint-parent a,
+.logo a,
+nav a,
+.menu a {
+    color: inherit !important;
+    text-decoration: none !important;
+}
+
+/* ===== Homepage title ===== */
+.home-info-title,
+.home-info-title a {
+    font-weight: 700 !important;
+    font-size: 3rem !important;
+    color: var(--title-color) !important;
+    text-decoration: none !important;
+}
+
+/* ===== Homepage subtitle ===== */
+.home-info-content {
+    font-weight: 400 !important;
+    font-size: 1.2rem !important;
+    color: var(--text-color) !important;
+    line-height: 1.6 !important;
+}
+
+/* ===== Main content paragraph ===== */
+.entry-content,
+.entry-content p {
+    font-size: 1.15rem !important;
+    color: var(--text-color) !important;
+    line-height: 1.7 !important;
+    font-weight: 400 !important;
+}
+
+/* ===== All hyperlinks on homepage and in content ===== */
+.home-info-content a,
+.entry-content a,
+.post-content a,
+article a {
+    color: var(--title-color) !important;
+    text-decoration: underline !important;
+    text-underline-offset: 3px !important;
+}
+
+.home-info-content a:hover,
+.entry-content a:hover,
+.post-content a:hover,
+article a:hover {
+    color: var(--link-hover-color) !important;
+    text-decoration: underline !important;
+}
+
+/* ===== Social icons (GitHub, Email, LinkedIn) lighter style ===== */
+.social-icons a,
+.social-icons a svg {
+    color: var(--title-color) !important;
+    fill: var(--title-color) !important;
+    opacity: 0.75;           /* make icons lighter */
+    transition: opacity 0.3s ease;
+}
+
+.social-icons a:hover,
+.social-icons a:hover svg {
+    color: var(--link-hover-color) !important;
+    fill: var(--link-hover-color) !important;
+    opacity: 1;             /* full opacity on hover */
+}
+
+/* ===== Buttons and top-right menu ===== */
+.btn, .menu-button {
+    font-weight: 500 !important;
+}
+
+/* ===== Section spacing ===== */
+section {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+/* ===== Footer ===== */
+footer {
+    font-size: 0.9rem !important;
+    color: var(--footer-color) !important;
+}
+
+/* ===== Italic support ===== */
+blockquote, em, i {
+    font-family: var(--font-family) !important;
+    font-style: italic;
+}
+
+/* ===== Dark mode overrides ===== */
+[data-theme="dark"] {
+    --secondary: #ebebeb;        /* body text → near-white */
+    --text-color: #ebebeb;
+    --footer-color: #aaaaaa;
+}
+
+[data-theme="dark"] .entry-content,
+[data-theme="dark"] .entry-content p {
+    color: #ebebeb !important;
+}
+
+[data-theme="dark"] .home-info-content {
+    color: #ebebeb !important;
+}
+
+[data-theme="dark"] body {
+    color: #ebebeb;
+}
+
+[data-theme="dark"] {
+    --secondary: #ebebeb;
+    --text-color: #ebebeb;
+    --footer-color: #aaaaaa;
+    --title-color: #6b9bd2;      /* lighter blue, readable on dark background */
+    --link-hover-color: #90b8e8;
+}
+
+/* ===== Wider main container ===== */
+:root {
+    --main-width: 1000px;
+    --gap: 10px;        /* reduce from 24px to 12px, less side padding */
+}
+
+/* ===== Research page ===== */
+
+/* Section headings (Working Papers, Work in Progress) */
+.post-content h2 {
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+    color: var(--title-color) !important;
+    margin-top: 2rem !important;
+    margin-bottom: 1rem !important;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.3rem;
+}
+
+/* Paper entry spacing */
+.post-content hr {
+    border: none !important;
+    border-top: 1px solid #eeeeee !important;
+    margin: 1.5rem 0 !important;
+}
+
+/* Paper title (bold via markdown **) */
+.post-content strong {
+    font-size: 1.15rem !important;
+    color: #111111 !important;
+    font-weight: 600 !important;
+}
+
+/* Paper / Appendix links — underlined */
+.post-content a {
+    color: var(--title-color) !important;
+    text-decoration: underline !important;
+    text-underline-offset: 3px !important;
+}
+
+.post-content a:hover {
+    color: var(--link-hover-color) !important;
+}
+
+/* Collapsible abstract */
+.post-content details {
+    margin-top: 0.4rem;
+    margin-bottom: 0.2rem;
+}
+
+.post-content details summary {
+    cursor: pointer;
+    color: var(--title-color) !important;
+    font-weight: 500 !important;
+    font-size: 1rem !important;
+    text-decoration: underline !important;
+    text-underline-offset: 3px !important;
+    list-style: none;               /* remove default triangle */
+    display: inline-block;
+}
+
+/* Custom triangle indicator */
+.post-content details summary::before {
+    content: '▶ ';
+    font-size: 0.7rem;
+    vertical-align: middle;
+}
+
+.post-content details[open] summary::before {
+    content: '▼ ';
+}
+
+.post-content details summary::-webkit-details-marker {
+    display: none;                  /* hide default marker in Chrome */
+}
+
+/* Abstract text */
+.abstract-content {
+    margin-top: 0.6rem;
+    margin-left: 1rem;
+    color: #111111 !important;
+    font-size: 1rem !important;
+    line-height: 1.7 !important;
+    font-style: italic;
+}
+
+/* Dark mode */
+[data-theme="dark"] .abstract-content {
+    color: #ebebeb !important;
+}
+
+[data-theme="dark"] .post-content strong {
+    color: #ebebeb !important;
+}

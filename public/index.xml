@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mian Liu</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mian Liu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;HEC Paris&lt;br&gt;
+W2-22, Department of Finance&lt;br&gt;
+1 Rue de la Libération&lt;br&gt;
+Jouy-en-Josas, 78351, France&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:mian.liu@hec.edu&#34;&gt;mian.liu@hec.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&#34;https://mianliu027.github.io/&#34;&gt;mianliu027.github.io&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;job-market-paper&#34;&gt;Job Market Paper&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Fading Tripwire: Theory and Structural Estimates of Creditor Control Rights&lt;/strong&gt;&lt;br&gt;
+May 2026. &lt;!-- [Paper](/papers/paper1.pdf). --&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Abstract&lt;/summary&gt;
+&lt;div class=&#34;abstract-content&#34;&gt;
+This paper explains and quantifies the secular decline of financial covenants in private debt markets. Using a panel of U.S. syndicated loans from 1996 to 2023, I document that the annual incidence of covenant violations declines from 20% to below 5% over two decades, while the creditor intervention rate following a violation rises from 40% to over 70%. Crucially, this decline is accompanied by a reallocation across the micro-channels of creditor control: managerial discipline has weakened considerably while investment conservatism have become more important. I develop a micro-founded optimal contracting model that endogenizes covenant design through moral hazard, endogenous signal acquisition, and the contingent allocation of control rights. I structurally estimate the model using the Simulated Method of Moments, targeting causally identified moments from the reduced-form literature. The estimates reveal three forces behind the secular decline: a moderate easing of moral hazard frictions, improved signal informativeness, and a shift in the relative importance of the micro-mechanisms of creditor intervention. Together, these shifts characterize financial covenants as a fading tripwire: an alarm mechanism that is increasingly rarely set and functioning differently when triggered.
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Award&lt;/summary&gt;
+&lt;div class=&#34;abstract-content&#34;&gt;
+FIRS - JFI 2026 Best Student Paper Award.
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;h2 id=&#34;at-hec-paris&#34;&gt;At HEC Paris&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Financial Economics (M1)&lt;/strong&gt;&lt;br&gt;
+Course Instructor, Fall 2023. &lt;a href=&#34;http://localhost:1313/files/syllabus_fe23.pdf&#34;&gt;Syllabus&lt;/a&gt;.&lt;br&gt;
+Tutorial Instructor, Fall 2022. &lt;a href=&#34;http://localhost:1313/files/syllabus_fe22.pdf&#34;&gt;Syllabus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

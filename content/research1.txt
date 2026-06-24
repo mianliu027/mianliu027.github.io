@@ -1,0 +1,61 @@
+---
+title: "Research"
+layout: "single"
+draft: false
+---
+
+## Working Papers
+
+**The Fading Tripwire: Theory and Structural Estimates of Creditor Control Rights**<br>
+April 2025. [Paper](/papers/paper1.pdf).
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract-content">
+This paper explains and quantifies the secular decline of financial covenants in private debt markets. Using a panel of U.S. syndicated loans from 1996 to 2023, I document that the annual incidence of covenant violations declines from 20% to below 5% over two decades, while the creditor intervention rate following a violation rises from 40% to over 70%. Crucially, this decline is accompanied by a sharp attenuation in the real consequences of violations: the pre-2010 pattern of substantial investment reductions and elevated forced CEO turnover largely disappears after 2010. I develop a micro-founded optimal contracting model that endogenizes covenant design through moral hazard, endogenous signal acquisition, and the contingent allocation of control rights. I structurally estimate the model using the Simulated Method of Moments, targeting causally identified moments from the reduced-form literature. The estimates reveal three forces behind the secular decline: a moderate easing of moral hazard frictions, improved signal informativeness, and a sharp softening of ex-post creditor intervention. Together, these shifts characterize financial covenants as a fading tripwire: an alarm mechanism that is increasingly rarely set and increasingly inconsequential when triggered.
+</div>
+</details>
+
+&nbsp;
+
+
+
+**Partial Equilibrium Thinking, Extrapolation, and Bubbles**<br>
+with Co-Author Name. May 25. [Paper](/papers/paper3.pdf), [Online Appendix](/papers/paper3-appendix.pdf). Accepted, *Review of Financial Studies*
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract-content">
+Your abstract text goes here.
+</div>
+</details>
+
+&nbsp;
+
+---
+
+## Work in Progress
+
+**Paper Title Here**<br>
+with Co-Author Name. Month Year. [Paper](/papers/paper4.pdf).
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract-content">
+Your abstract text goes here.
+</div>
+</details>
+
+&nbsp;
+
+**Central Bank Bond Purchases, Informativeness, and Rollover Crises**<br>
+August 24. [Paper](/papers/paper2.pdf).
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract-content">
+Your abstract text goes here.
+</div>
+</details>
+
+&nbsp;

@@ -1,0 +1,62 @@
+baseURL = "https://mianliu027.github.io/"
+title = "Mian Liu"
+theme = "PaperMod"
+
+# ===== Main site parameters =====
+[params]
+  defaultTheme = "auto"         # "light" | "dark" | "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  profileImage = "/images/profile.png"
+
+# ===== Homepage (Home-Info Mode) =====
+[params.homeInfoParams]
+  Title = "<span style='margin: 0 20px;'> 劉勉 <span style='margin: 0 10px;'>·</span> Mian Liu"
+  Content = """Welcome to my personal website! I am a Ph.D. candidate in Finance at HEC Paris.<br><br>
+  I am on the 2026–2027 academic job market.<br><br>
+  I am an applied researcher interested in corporate finance and macro-finance. 
+  My research examines how debt contracts and control rights shape firm behavior and aggregate outcomes, with a particular focus on financial covenants, loan renegotiation, and financial stability.<br><br>
+  Prior to my doctoral studies, I received a BSc in Statistics from Shanghai University of Finance and Economics, and an MSc in Finance and Economics from the London School of Economics.
+  """
+
+# ===== Profile image (shown on homepage) =====
+[params.profileMode]
+  enabled  = false              # set true if you prefer profile-mode layout
+
+# ===== Top-right navigation menu =====
+[menu]
+
+  [[menu.main]]
+  name   = "Research"
+  url    = "/research/"
+  weight = 1
+
+  [[menu.main]]
+name   = "Teaching"
+url    = "/teaching/"
+weight = 2
+
+[[menu.main]]
+name   = "CV"
+url    = "/files/cv_mliu.pdf"
+weight = 3
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 4
+
+# ===== Social icons =====
+[[params.socialIcons]]
+name = "email"
+url  = "mailto:mian.liu@hec.edu"
+
+[[params.socialIcons]]
+name = "linkedin"
+url  = "https://www.linkedin.com/in/mian-liu-a80a751a4/"
+
+[markup.goldmark.renderer]
+  unsafe = true

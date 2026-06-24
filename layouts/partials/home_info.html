@@ -1,0 +1,32 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+  <div style="display: flex; align-items: flex-start; gap: 2.5rem; width: 100%;">
+
+    <!-- Profile image (left side) -->
+    {{- with site.Params.profileImage }}
+    <div style="flex-shrink: 0;">
+      <img src="{{ . }}" alt="Profile"
+           style="width: 180px; display: block; border-radius: 4px;">
+    </div>
+    {{- end }}
+
+    <!-- Text block (right side) -->
+    <div style="flex: 1; min-width: 0; width: 100%;">
+      <h1 class="home-info-title">{{ .Title | safeHTML }}</h1>
+      <div class="entry-content">
+        <p style="max-width: 100%; margin: 0; white-space: normal;">{{ .Content | safeHTML }}</p>
+      </div>
+      {{- with site.Params.socialIcons }}
+      <div class="social-icons">
+        {{- range . }}
+        <a href="{{ trim .url " " }}" target="_blank" rel="noopener noreferrer me">
+          {{- partial "svg" . }}
+        </a>
+        {{- end }}
+      </div>
+      {{- end }}
+    </div>
+
+  </div>
+</article>
+{{- end }}
