@@ -6,8 +6,9 @@ draft: false
 
 ## Job Market Paper
 
-**The Fading Tripwire: Theory and Structural Estimates of Creditor Control Rights**<br>
-May 2026. <!-- [Paper](/papers/paper1.pdf). -->
+**Agency Conflicts and Financial Covenants:
+	Theory and Structural Estimates of Control Rights**<br>
+August 2026. <!-- [Paper](/papers/paper1.pdf). -->
 
 <details>
 <summary>Abstract</summary>
@@ -16,12 +17,11 @@ This paper explains and quantifies the secular decline of financial covenants in
 </div>
 </details>
 
-<details>
-<summary>Award</summary>
 <div class="abstract-content">
 FIRS - JFI 2026 Best Student Paper Award.
 </div>
-</details>
+
+
 
 &nbsp;
 
@@ -46,7 +46,7 @@ This paper uncovers a novel contractionary channel through which quantitative ea
 ## Work in Progress
 
 
-**Contracting Informativeness and the Financial Accelerator**<br>
+**Endogenously Imperfect Risk Sharing and Financial Amplification**<br>
 <!-- March 2026. [Paper](/papers/paper3.pdf). -->
 
 &nbsp;

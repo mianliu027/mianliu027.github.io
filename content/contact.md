@@ -6,9 +6,9 @@ draft: false
 **Address:**  
 
 HEC Paris  
-W2-22, Department of Finance  
+Office W2-22, Department of Finance  
 1 Rue de la Libération  
-Jouy-en-Josas, 78351, France  
+78350 Jouy-en-Josas, France
 
 Email: mian.liu@hec.edu 
 
