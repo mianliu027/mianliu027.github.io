@@ -57,7 +57,7 @@ nav a,
 .home-info-title,
 .home-info-title a {
     font-weight: 700 !important;
-    font-size: 3rem !important;
+    font-size: 3.5rem !important;
     color: var(--title-color) !important;
     text-decoration: none !important;
 }
@@ -257,4 +257,28 @@ blockquote, em, i {
 
 [data-theme="dark"] .post-content strong {
     color: #ebebeb !important;
+}
+
+/* ===== Mobile homepage layout ===== */
+@media (max-width: 768px) {
+
+    /* Stack homepage columns vertically */
+    .home-info {
+        display: block !important;
+    }
+
+    /* Make homepage text use the full width */
+    .home-info .home-info-content {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    /* Prevent the profile image from taking most of the screen */
+    .home-info img {
+        width: 100% !important;
+        max-width: 280px !important;
+        height: auto !important;
+        display: block !important;
+        margin: 0 auto 2rem auto !important;
+    }
 }

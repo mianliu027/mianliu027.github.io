@@ -14,7 +14,7 @@ theme = "PaperMod"
 
 # ===== Homepage (Home-Info Mode) =====
 [params.homeInfoParams]
-  Title = "<span style='margin: 0 20px;'> 劉勉 <span style='margin: 0 10px;'>·</span> Mian Liu"
+  Title = "<span style='margin: 0 2px;'> 劉勉"
   Content = """Welcome to my personal website! I am a Ph.D. candidate in Finance at HEC Paris.<br><br>
   I am on the 2026–2027 academic job market.<br><br>
   I am an applied researcher interested in corporate finance and macro-finance. 
