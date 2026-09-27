@@ -7,7 +7,7 @@ draft: false
 ## Job Market Paper
 
 **Agency Conflicts and Financial Covenants:
-	Theory and Structural Estimates of Control Rights**<br>
+	Theory and Estimates of Control Rights**<br>
 August 2026. <!-- [Paper](/papers/paper1.pdf). -->
 
 <details>
@@ -18,7 +18,7 @@ This paper explains and quantifies the secular decline of financial covenants in
 </details>
 
 <div class="abstract-content">
-FIRS - JFI 2026 Best Student Paper Award.
+FIRS-JFI 2026 Best Student Paper Award.
 </div>
 
 
@@ -41,15 +41,23 @@ This paper uncovers a novel contractionary channel through which quantitative ea
 
 &nbsp;
 
+**Endogenously Imperfect Risk Sharing and Financial Amplification**<br>
+September 2026. <!-- [Paper](/papers/paper3.pdf). -->
+
+<details>
+<summary>Abstract</summary>
+<div class="abstract-content">
+Why do financial contracts leave entrepreneurs exposed to aggregate risk even when contracts can be made fully state-contingent? I develop a financial accelerator model with a moral hazard problem in which private benefit of low effort is non-monetary and incentive compatibility holds state by state. 
+Since the marginal value of entrepreneurial net worth is countercyclical, the incentive constraint tightens procyclically. Entrepreneurs take advantage of this tradeoff by offloading more idiosyncratic risk at the cost of taking on more aggregate risk.
+Imperfect aggregate risk exposure thus emerges endogenously from the interaction between state-dependent incentives and risk sharing, rather than from contractual restrictions. This exposure amplifies aggregate shocks: entrepreneurial net worth becomes more sensitive to macroeconomic conditions, compressing borrowing capacity procyclically. Quantitatively, state-contingent contracting does not eliminate the financial accelerator, and the model generates substantial and persistent amplification of investment and output.
+</div>
+</details>
+
+&nbsp;
+
 ---
 
 ## Work in Progress
-
-
-**Endogenously Imperfect Risk Sharing and Financial Amplification**<br>
-<!-- March 2026. [Paper](/papers/paper3.pdf). -->
-
-&nbsp;
 
 **Anatomy of Creditor Governance: Defensive and Offensive Control in Credit Markets**<br>
 
