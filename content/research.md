@@ -8,12 +8,12 @@ draft: false
 
 **Agency Conflicts and Financial Covenants:
 	Theory and Estimates of Control Rights**<br>
-August 2026. <!-- [Paper](/papers/paper1.pdf). -->
+October 2026. <!-- [Paper](/papers/paper1.pdf). -->
 
 <details>
 <summary>Abstract</summary>
 <div class="abstract-content">
-This paper explains and quantifies the secular decline of financial covenants in private debt markets. Using a panel of U.S. syndicated loans from 1996 to 2023, I document that the annual incidence of covenant violations declines from 20% to below 5% over two decades, while the creditor intervention rate following a violation rises from 40% to over 70%. Crucially, this decline is accompanied by a reallocation across the micro-channels of creditor control: managerial discipline has weakened considerably while investment conservatism have become more important. I develop a micro-founded optimal contracting model that endogenizes covenant design through moral hazard, endogenous signal acquisition, and the contingent allocation of control rights. I structurally estimate the model using the Simulated Method of Moments, targeting causally identified moments from the reduced-form literature. The estimates reveal three forces behind the secular decline: a moderate easing of moral hazard frictions, improved signal informativeness, and a shift in the relative importance of the micro-mechanisms of creditor intervention. Together, these shifts characterize financial covenants as a fading tripwire: an alarm mechanism that is increasingly rarely set and functioning differently when triggered.
+This paper studies how agency conflicts shape the design and enforcement of financial covenants in private debt markets. Using a panel of U.S. syndicated loans from 1996 to 2020, I document a substantial evolution in covenant use and enforcement: the annual incidence of covenant violations declines from 20 percent to below 5 percent over two decades, while the creditor intervention rate following a violation rises from 40 percent to over 70 percent. Importantly, this change is accompanied by a shift in the channels of creditor control rights: while covenant violations continue to constrain investment, their effects on operating income and managerial discipline weaken considerably. To quantify these forces, I develop a micro-founded optimal contracting model in which covenant responds to managerial moral hazard, performance signals, and noncontractible interim actions. By allocating contingent control rights, financial covenants mitigate the lack of cash-flow pledgeability and facilitate financing. I structurally estimate the model using the Simulated Method of Moments, targeting causally identified moments from the reduced-form literature. The estimates show a substantial decrease in both the performance benefits and the managerial costs of creditor intervention. Private-equity sponsorship explains roughly one quarter of this shift, pointing to a broader evolution in the nature of creditor governance.
 </div>
 </details>
 
@@ -30,12 +30,12 @@ FIRS-JFI 2026 Best Student Paper Award.
 ## Working Papers
 
 **The Loan Renegotiation Channel of Quantitative Easing**<br>
-with Lin Xie (Minnesota Carlson). June 2026. <!-- [Paper](/papers/paper2.pdf). -->
+with Lin Xie (Minnesota Carlson). October 2026. <!-- [Paper](/papers/paper2.pdf). -->
 
 <details>
 <summary>Abstract</summary>
 <div class="abstract-content">
-This paper uncovers a novel contractionary channel through which quantitative easing (QE) affects corporate financing: the loan renegotiation channel. Using loan-level data from 2006 to 2024, we exploit cross-sectional variation in banks' pre-QE MBS holdings interacted with Federal Reserve purchase flows to identify causal effects on existing credit relationships. Within a firm-quarter design that absorbs borrower demand shocks and lender heterogeneity, we find that banks most exposed to QE purchases significantly increase lender-favorable renegotiations, tightening credit terms through commitment reductions, spread increases, maturity shortening, or additional collateral, while borrower-favorable amendments remain unaffected. High MBS exposure raises the probability of lender-favorable renegotiation by approximately 2.8%. Aggregating renegotiation exposure to the firm level, IV estimates indicate that a one-unit increase in exposure-weighted lender-favorable renegotiation reduces capital expenditure by 12.2% of lagged total assets. These findings establish loan renegotiation as a distinct intensive-margin mechanism through which unconventional monetary policy propagates to firm investment.
+We study a channel of quantitative easing that operates through the renegotiation of existing bank loans. Using syndicated loans amendment histories matched to bank balance sheets, we find that outstanding syndicated loans of banks more exposed to quantitative easing were differentially renegotiated, almost entirely in the lender's favor. Relative to other loans of the same firm in the same quarter, a doubling of quarterly purchases came with amounts lower by 2.5 percent, spreads higher by 10.6 basis points, and maturities shorter by 3.1 percent on exposed banks' amendments. The response is concentrated among well-capitalized, well-provisioned, and profitable banks and among less profitable, lower-valuation borrowers, and it is not explained by covenant violations. A shift-share design shows that lender-favorable renegotiation reduces investment: a ten-percentage-point increase in a firm's lender-favorable renegotiation rate lowers its annual investment rate by 6 percent of its average. The results point to a renegotiation margin through which QE tightened, rather than eased, the terms of existing corporate credit, partially offsetting its documented expansionary effects on new lending.
 </div>
 </details>
 
