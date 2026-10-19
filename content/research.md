@@ -42,14 +42,14 @@ We study a channel of quantitative easing (QE) that operates through the renegot
 &nbsp;
 
 **Endogenously Imperfect Risk Sharing and Financial Amplification**<br>
-September 2026. <!-- [Paper](/papers/paper3.pdf). -->
+October 2026. [Paper](/papers/riskamplification.pdf). 
 
 <details>
 <summary>Abstract</summary>
 <div class="abstract-content">
 Why do financial contracts leave entrepreneurs exposed to aggregate risk even when contracts can be made fully state-contingent? I develop a financial accelerator model with a moral hazard problem in which private benefit of low effort is non-monetary and incentive compatibility holds state by state. 
-Since the marginal value of entrepreneurial net worth is countercyclical, the incentive constraint tightens procyclically. Entrepreneurs take advantage of this tradeoff by offloading more idiosyncratic risk at the cost of taking on more aggregate risk.
-Imperfect aggregate risk exposure thus emerges endogenously from the interaction between state-dependent incentives and risk sharing, rather than from contractual restrictions. This exposure amplifies aggregate shocks: entrepreneurial net worth becomes more sensitive to macroeconomic conditions, compressing borrowing capacity procyclically. Quantitatively, state-contingent contracting does not eliminate the financial accelerator, and the model generates substantial and persistent amplification of investment and output.
+Since the marginal value of entrepreneurial net worth is countercyclical, the incentive constraint tightens procyclically. Entrepreneurs thus take advantage of this tradeoff by offloading more idiosyncratic risk at the cost of taking on more aggregate risk.
+Imperfect aggregate risk sharing therefore emerges endogenously from the interaction between state-dependent incentives and risk sharing, rather than from contractual restrictions. This exposure amplifies aggregate shocks: entrepreneurial net worth becomes more sensitive to macroeconomic conditions, compressing borrowing capacity procyclically. Quantitatively, state-contingent contracting does not eliminate the financial accelerator, and the model generates substantial and persistent amplification of investment and output.
 </div>
 </details>
 
