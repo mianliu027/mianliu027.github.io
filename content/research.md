@@ -18,9 +18,9 @@ This paper studies how agency conflicts shape the design and enforcement of fina
 </details>
 
 <div class="abstract-content">
-FIRS-JFI 2026 Best Student Paper Award.
+FIRS-JFI 2026 Best Student Paper Award<br>
+2026 Hakan Orbay Research Award
 </div>
-
 
 
 &nbsp;
