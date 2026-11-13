@@ -42,7 +42,7 @@ We study a channel of quantitative easing (QE) that operates through the renegot
 &nbsp;
 
 **Endogenously Imperfect Risk Sharing and Financial Amplification**<br>
-October 2026. [Paper](/papers/RiskAmplification.pdf). 
+October 2026. [Paper](/papers/Amplification.pdf). 
 
 <details>
 <summary>Abstract</summary>
