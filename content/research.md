@@ -8,12 +8,12 @@ draft: false
 
 **Agency Conflicts and Financial Covenants:
 	Theory and Estimates of Control Rights**<br>
-October 2026. <!-- [Paper](/papers/paper1.pdf). -->
+November 2026. [Paper](/papers/AgencyCovenant.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7687638).
 
 <details>
 <summary>Abstract</summary>
 <div class="abstract-content">
-This paper studies how agency conflicts shape the design and enforcement of financial covenants in private debt markets. Using a panel of U.S. syndicated loans from 1996 to 2020, I document a substantial evolution in covenant use and enforcement: the annual incidence of covenant violations declines from 20 percent to below 5 percent over two decades, while the creditor intervention rate following a violation rises from 40 percent to over 70 percent. Importantly, this change is accompanied by a shift in the channels of creditor control rights: while covenant violations continue to constrain investment, their effects on operating income and managerial discipline weaken considerably. To quantify these forces, I develop a micro-founded optimal contracting model in which covenant responds to managerial moral hazard, performance signals, and noncontractible interim actions. By allocating contingent control rights, financial covenants mitigate the lack of cash-flow pledgeability and facilitate financing. I structurally estimate the model using the Simulated Method of Moments, targeting causally identified moments from the reduced-form literature. The estimates show a substantial decrease in both the performance benefits and the managerial costs of creditor intervention. Private-equity sponsorship explains roughly one quarter of this shift, pointing to a broader evolution in the nature of creditor governance.
+This paper studies the relationship between financial covenant design, enforcement, and the impacts of violations, and how this relationship has evolved alongside the secular trends in violations and post-violation interventions. I develop an optimal contracting model in which covenants arise endogenously from a hidden effort problem and non-contractible interim action. By allocating contingent control rights, financial covenants mitigate the lack of cash-flow pledgeability and facilitate financing. I estimate the model using Simulated Method of Moments, targeting causally identified moments from the reduced-form covenant literature. The full-sample estimates reveal that violation rates are primarily governed by the hidden effort problem and performance signal structure, while intervention rates are largely driven by the costs and benefits of interim action. Subperiod estimates show that the weakening impact of covenant violations on managerial discipline is reflected in higher intervention rates, but not in the secular decline in violation rates. The rise of PE sponsorship explains around one quarter of the estimated structural shift.
 </div>
 </details>
 
@@ -30,7 +30,7 @@ FIRS-JFI 2026 Best Student Paper Award<br>
 ## Working Papers
 
 **The Loan Renegotiation Channel of Quantitative Easing**<br>
-with Lin Xie (Minnesota Carlson). October 2026. [Paper](/papers/qe_renegotiation.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7622438).
+with Lin Xie (Minnesota Carlson). October 2026. [Paper](/papers/QERenegotiation.pdf), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7622438).
 
 <details>
 <summary>Abstract</summary>
@@ -42,7 +42,7 @@ We study a channel of quantitative easing (QE) that operates through the renegot
 &nbsp;
 
 **Endogenously Imperfect Risk Sharing and Financial Amplification**<br>
-October 2026. [Paper](/papers/riskamplification.pdf). 
+October 2026. [Paper](/papers/RiskAmplification.pdf). 
 
 <details>
 <summary>Abstract</summary>
